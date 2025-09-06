@@ -79,12 +79,12 @@ const Hero: React.FC = () => {
                 </div>
               </button>
               
-              <button className="px-8 py-4 bg-white/20 backdrop-blur-md text-gray-700 font-semibold rounded-2xl border border-white/30 hover:bg-white/30 transition-all duration-300 transform hover:scale-105 shadow-lg">
+              <a href="tel:9160644601" className="px-8 py-4 bg-white/20 backdrop-blur-md text-gray-700 font-semibold rounded-2xl border border-white/30 hover:bg-white/30 transition-all duration-300 transform hover:scale-105 shadow-lg">
                 <div className="flex items-center justify-center gap-2">
                   <Phone size={20} />
                   Call Now
                 </div>
-              </button>
+              </a>
             </div>
           </div>
 
